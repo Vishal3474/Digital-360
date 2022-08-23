@@ -6,7 +6,7 @@ function Home() {
       
       <div className="lg:flex ">
       <div className="mt-40 lg:ml-20 lg:mr-20">
-        <h1 className="text-xl">SIMPLE APP</h1>
+        <h1 className="text-xl ">SIMPLE APP</h1>
         <h1 className="text-5xl font-bold mt-7">A new way to connect simple yet powerful</h1>
         <h1 className="mt-7 text-lg">
           Mauris lobortis magna erat varius enim vestibulum aliquam consequat
