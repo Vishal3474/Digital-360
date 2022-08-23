@@ -3,7 +3,7 @@ import React from "react";
 function TestimonialCard() {
   return (
     <div>
-      <div className="lg:flex lg:space-x-24 lg:ml-20 lg:mr-20 lg:mb-20">
+      <div className="lg:flex lg:space-x-24 lg:ml-20 lg:mr-20 mb-20">
         <div className="lg:shadow-2xl lg:bg-gray-50 lg:space-y-8 lg:flex lg:flex-col lg:items-center  ">
           <h1 className="text-6xl font-bold">,,</h1>
 

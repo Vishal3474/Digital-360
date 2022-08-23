@@ -7,7 +7,7 @@ function Header() {
         <div>
           <h1 className="text-3xl ml-3 ">Digital 360</h1>
         </div>
-        <div className="flex ml-auto space-x-8 mr-3 mt-2">
+        <div className="lg:flex ml-auto space-x-8 mr-3 mt-2 sm:flex hidden">
           <h1>Home</h1>
           <h1>Feature</h1>
           <h1>About</h1>

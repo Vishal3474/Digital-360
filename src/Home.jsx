@@ -4,8 +4,8 @@ function Home() {
   return (
     <div className="bg-[url('https://cdn.discordapp.com/attachments/998764908479004743/1011535542195863602/bg-1.d40ee0f6.jpg')] h-full text-white bg-cover">
       
-      <div className="flex ">
-      <div className="mt-40 ml-20 mr-20">
+      <div className="lg:flex ">
+      <div className="mt-40 lg:ml-20 lg:mr-20">
         <h1 className="text-xl">SIMPLE APP</h1>
         <h1 className="text-5xl font-bold mt-7">A new way to connect simple yet powerful</h1>
         <h1 className="mt-7 text-lg">
@@ -22,7 +22,7 @@ function Home() {
         </div>
       </div>
 <div>
-      <img className="mt-16 mr-40 ml-10"
+      <img className="mt-16 lg:mr-40 lg:ml-10"
         src="https://cdn.discordapp.com/attachments/998764908479004743/1011532873305690172/img-3_2.png"
         alt="Make Sure Your PC/Laptop Connected with  Good Internet "
       /></div></div>

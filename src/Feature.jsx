@@ -5,13 +5,13 @@ function Feature() {
     <div>
       <div className="text-center mt-20">
         <h1 className="text-2xl">Application Feature</h1>
-        <h1 className="text-md mt-3 ml-64 mr-64 text-gray-600">
+        <h1 className="text-md mt-3 lg:ml-64 lg:mr-64 text-gray-600">
           Temporibus autem quibusdam officiis debitis necessitatibus eveniet
           voluptates repudiandae molestiae non recusandae taque earum rerum hic
           asperiores repellat.
         </h1>
       </div>
-      <div className="flex mt-20 ml-16 mr-16 space-x-7">
+      <div className="lg:flex mt-20 lg:ml-16 lg:mr-16 lg:space-x-7">
         <div className="flex flex-col items-center">
           <img
             className="h-12 w-12"
@@ -51,7 +51,7 @@ function Feature() {
         </div>
       </div>
 
-      <div className="flex mt-20 ml-16 mr-16 space-x-7 mb-36">
+      <div className="lg:flex mt-20 lg:ml-16 lg:mr-16 lg:space-x-7 mb-36">
         <div className="flex flex-col items-center">
           <img
             className="h-12 w-12"

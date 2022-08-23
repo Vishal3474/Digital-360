@@ -22,7 +22,7 @@ function Team() {
           voluptates repudiandae molestiae non recusandae taque earum rerum hic
           asperiores repellat.
         </h1></div>
-<div className="lg:space-x-10 lg:mt-40 lg:text-center lg:mb-10 sm:flex sm:flex-col sm:space-y-10 sm:items-center ">
+<div className="lg:space-x-10 mt-40 lg:text-center mb-10 sm:flex sm:flex-col sm:space-y-10 sm:items-center ">
 <button className="border-2 border-white py-3 px-12 hover:bg-white hover:text-gray-700">Ios</button>
 <button  className="border-2 border-white py-3 px-8 hover:bg-white hover:text-gray-700">Android</button>
 <button  className="border-2 border-white py-3 px-8 hover:bg-white hover:text-gray-700">Windows</button>

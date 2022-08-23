@@ -3,8 +3,8 @@ import React from "react";
 function About() {
   return (
     <div className="bg-gray-200">
-      <div className="flex ">
-        <div className="mt-36">
+      <div className="lg:flex ">
+        <div className="lg:mt-36">
           <h1 className="text-indigo-500 text-3xl ml-36">Easy Task Creation</h1>
           <h1 className="text-gray-600 ml-36 mr-24 mt-5">
             These cases are perfectly simple and easy a distinguish our power
@@ -13,7 +13,7 @@ function About() {
             capatila stamp undertakes laborious physical exercise except to
             obtain some advantage from architecto beatae vitae explicabo.
           </h1>{" "}
-          <div className="flex mt-10 space-x-10 ml-36">
+          <div className="lg:flex mt-10 lg:space-x-10 lg:ml-36">
             <div className="space-y-2 flex flex-col items-center">
               <img className="w-12"
                 src="https://cdn.discordapp.com/attachments/998764908479004743/1011571015324807258/icons8-monitor-50.png"
@@ -39,7 +39,7 @@ function About() {
               <h1 className="text-gray-600">Aliquam diam finibus purus...</h1>
             </div>
           </div>{" "}
-          <div className="flex mt-10 space-x-10 ml-36 mb-20">
+          <div className="lg:flex mt-10 lg:space-x-10 lg:ml-36 mb-20">
             <div className="space-y-2 flex flex-col items-center">
               <img className="w-12"
                 src="https://cdn.discordapp.com/attachments/998764908479004743/1011577068615639071/icons8-graph-64.png"
@@ -87,10 +87,10 @@ function About() {
  </div>  
    
 
-<div className="flex space-x-48 ml-32 mr-32 mt-48 ">
+<div className="lg:flex lg:space-x-48 lg:ml-32 lg:mr-32 mt-48 ">
 
 
-<div className="flex flex-col items-center space-y-3  mb-24">
+<div className="lg:flex lg:flex-col lg:items-center lg:space-y-3 lg:mb-24">
 
     <img className="w-12" src="https://cdn.discordapp.com/attachments/998764908479004743/1011586234843414651/icons8-person-64.png" alt="" />
  <h1 className="text-3xl" >26550+</h1>

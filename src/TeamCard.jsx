@@ -87,7 +87,7 @@ function TeamCard() {
         </div>
       </div>
 
-      <div className="lg:flex lg:flex-col lg:items-center lg:space-y-2">
+      <div className="flex flex-col items-center space-y-2">
         <img
           className="rounded-md"
           src="https://cdn.discordapp.com/attachments/998764908479004743/1011532934353780736/img-3_1.jpeg"

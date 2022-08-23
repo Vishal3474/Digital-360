@@ -9,7 +9,7 @@ function BlogCard() {
           src="https://cdn.discordapp.com/attachments/998764908479004743/1011532934978736148/img-7.jpeg"
           alt=""
         />
-        <div className="ml-8 mr-10 space-y-3">
+        <div className="lg:ml-8 lg:mr-10 space-y-3">
           <h1 className="text-sm">Creative Process</h1>
           <h1 className="text-lg">Enjoy pleasure annoying conseqes.</h1>
           <h1>
@@ -26,7 +26,7 @@ function BlogCard() {
           src="https://cdn.discordapp.com/attachments/998764908479004743/1011532934769033346/img-6.jpeg"
           alt=""
         />{" "}
-        <div className="ml-8 mr-10 space-y-3">
+        <div className="lg:ml-8 lg:mr-10 space-y-3">
           <h1 className="text-sm">Creative Process</h1>
           <h1 className="text-lg">Enjoy pleasure annoying conseqes.</h1>
           <h1>
@@ -43,7 +43,7 @@ function BlogCard() {
           src="https://cdn.discordapp.com/attachments/998764908479004743/1011532935180066836/img-8.jpeg"
           alt=""
         />
-        <div className="ml-8 mr-10 space-y-3">
+        <div className="lg:ml-8 lg:mr-10 space-y-3">
           <h1 className="text-sm">Creative Process</h1>
           <h1 className="text-lg">Enjoy pleasure annoying conseqes.</h1>
           <h1>
